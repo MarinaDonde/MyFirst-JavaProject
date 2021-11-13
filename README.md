@@ -1,2 +1,2 @@
 # MyFirst-JavaProject
-Program to register and consult clients and destinies
+Program to register and consult customers and destinies
