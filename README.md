@@ -5,7 +5,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarinaDonde/MyFirst-JavaProject)
 
-### 🖥️ Tecnologias utilizadas:
+### ✨ Tecnologias utilizadas:
 
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
